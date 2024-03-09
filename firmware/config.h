@@ -21,6 +21,7 @@
 
 #ifdef RGBLIGHT_ENABLE
     #define WS2812_DI_PIN B7
+    #define RGBLED_NUM 3
     #define RGBLIGHT_EFFECT_BREATHING
     #define RGBLIGHT_EFFECT_RAINBOW_MOOD
     #define RGBLIGHT_EFFECT_RAINBOW_SWIRL
@@ -35,5 +36,4 @@
     #define RGBLIGHT_HUE_STEP 10
     #define RGBLIGHT_SAT_STEP 17
     #define RGBLIGHT_VAL_STEP 17
-    #define RGBLED_NUM 3
 #endif
