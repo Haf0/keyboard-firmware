@@ -1,5 +1,5 @@
 {
-    "name": "Serica",
+    "name": "Serica Rev. 1",
     "vendorId": "0x4841",
     "productId": "0x5343",  
     "keycodes": ["qmk_lighting"],
