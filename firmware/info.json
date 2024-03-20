@@ -1,6 +1,6 @@
 {
-    "manufacturer": "haf",
-    "keyboard_name": "serica",
+    "manufacturer": "Androdi Studio",
+    "keyboard_name": "Serica Rev.1",
     "maintainer": "hafit",
     "bootloader": "atmel-dfu",
     "diode_direction": "COL2ROW",
