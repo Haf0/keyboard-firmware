@@ -20,7 +20,7 @@
 //#define NO_ACTION_ONESHOT
 
 #ifdef RGBLIGHT_ENABLE
-    #define WS2812_DI_PIN B7
+    #define WS2812B_LED_PIN B7
     #define RGBLED_NUM 3
     #define RGBLIGHT_EFFECT_BREATHING
     #define RGBLIGHT_EFFECT_RAINBOW_MOOD
